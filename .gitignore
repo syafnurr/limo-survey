@@ -1,0 +1,16 @@
+
+application/config/config.php
+
+tmp/assets/*
+tmp/runtime/*/*
+tmp/URI/*
+tmp/twig_cache/*
+upload/*/*
+!upload/themes/*
+!upload/twig/*
+
+!.gitkeep
+!index.html
+!.htaccess
+!readme*
+!README*
